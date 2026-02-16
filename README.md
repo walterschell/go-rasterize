@@ -1,14 +1,11 @@
 # Go Rasterize
 Simple interface to render an SVG to a go image.
-Uses a modified version of [`github.com/srwiley/oksvg`](https:/github.com/srwiley/oksvg) to do the heavy lifing.
+Uses a modified version of [`github.com/srwiley/oksvg`](https://github.com/srwiley/oksvg) to do the heavy lifing.
 If your use case is rendering to PNG, you might want to use that instead.
 
 
 # Example
 
-
-
-func Rasterize(svgData []byte, width, height int, options ...Option) (image.Image, error) {
 
 ```golang
 

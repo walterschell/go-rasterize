@@ -7,7 +7,7 @@ import (
 	"image/color"
 	"log/slog"
 
-	"github.com/srwiley/oksvg"
+	"github.com/walterschell/oksvg"
 	"github.com/srwiley/rasterx"
 )
 

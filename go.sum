@@ -1,5 +1,7 @@
 github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef h1:Ch6Q+AZUxDBCVqdkI8FSpFyZDtCVBc2VmejdNrm5rRQ=
 github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef/go.mod h1:nXTWP6+gD5+LUJ8krVhhoeHjvHTutPxMYl5SvkcnJNE=
+github.com/walterschell/oksvg v0.0.0-20260222214400-5002f8ad4e35 h1:MK+XZbLBs82neBCCzTyrUTM5FrGFUWp7BfJrbAxrksE=
+github.com/walterschell/oksvg v0.0.0-20260222214400-5002f8ad4e35/go.mod h1:jtCHwadTtYWnfkrXm8Ok5lteHUSuNO4tzH7XCtAgETk=
 golang.org/x/image v0.36.0 h1:Iknbfm1afbgtwPTmHnS2gTM/6PPZfH+z2EFuOkSbqwc=
 golang.org/x/image v0.36.0/go.mod h1:YsWD2TyyGKiIX1kZlu9QfKIsQ4nAAK9bdgdrIsE7xy4=
 golang.org/x/net v0.50.0 h1:ucWh9eiCGyDR3vtzso0WMQinm2Dnt8cFMuQa9K33J60=
